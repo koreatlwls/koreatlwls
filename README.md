@@ -75,28 +75,19 @@
 
 </td></tr></table>  
 
-<br/>
-
 ##### Main Stack
 <img src="https://img.shields.io/badge/Android-3ddc84?style=square&logo=Android Studio&logoColor=ffffff"/><img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=ffffff"/>
 
 <br/>  
 
- 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=koreatlwls&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-
-<br/>  
-
-  
-
+ 
 <br/>  
 
 ## BaekJoon Stats
 <img align='center' src="http://mazassumnida.wtf/api/generate_badge?boj=koreatlwls">
 
-<br/>
 <br/>
 
 ## Connect with me  
