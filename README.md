@@ -86,7 +86,7 @@
 <br/>  
 
 ## BaekJoon Stats
-<img align='center' src="http://mazassumnida.wtf/api/generate_badge?boj=koreatlwls">
+<div align="center"><img src="http://mazassumnida.wtf/api/generate_badge?boj=koreatlwls"/></div>
 
 <br/>
 
