@@ -77,6 +77,9 @@
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=koreatlwls&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
 
 ## Connect with me  
 <div align="center">
@@ -95,8 +98,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=koreatlwls&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
 
 <br/>  
 
