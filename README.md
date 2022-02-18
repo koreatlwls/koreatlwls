@@ -48,6 +48,7 @@
 
 </td>
 </tr></table>  
+<br/>
 ##### Main Stack
 <img src="https://img.shields.io/badge/Android-3ddc84?style=square&logo=Android Studio&logoColor=ffffff"/><img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=ffffff"/>
 
