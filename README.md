@@ -49,7 +49,7 @@
 </td>
 </tr></table>  
 <br/>
-##### Main Stack
+#### Main Stack
 <img src="https://img.shields.io/badge/Android-3ddc84?style=square&logo=Android Studio&logoColor=ffffff"/><img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=ffffff"/>
 
 <br/>  
@@ -67,10 +67,6 @@
 
 ## BaekJoon Stats
 <div align="center"><img src="http://mazassumnida.wtf/api/generate_badge?boj=koreatlwls"/></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div
 <br />
   
 ## Connect with me  
