@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">👨‍💻 I'm Sijin Kim, a Android App Developer 🚀</div>  
+## Android App Developer 
 
 - 🌱 I’m currently learning Android and Security  
   
